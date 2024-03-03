@@ -9,7 +9,7 @@ Mba Novianti Safitri dan Bang Muhammad Fauzan Gifari Dzul Fahmi selaku ASLAB dar
 - MiniProject Pertemuan 2 Algoritma dan Struktur Data, dengan Tema ***Sistem Manajemen Jadwal Kelas*** yang telah diberikan pada Kamis, 29 Februari 2024
   berikut ini dokumentasi programnya:
   
-## A.	Output Hasil
+#### A.	Output Hasil
 
 *a) Tampilan Menu Awal*
   
