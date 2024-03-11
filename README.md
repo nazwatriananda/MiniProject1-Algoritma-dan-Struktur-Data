@@ -2,7 +2,7 @@
 ### Nama: Nazwa Tri Ananda; NIM: 2309116018; Sistem Informasi A
 
 *Repository ini dibuat untuk mengumpulkan Mini Project Algoritma dan Struktur Data, saya mengucapkan banyak terimakasih kepada 
-Mba Novianti Safitri dan Bang Muhammad Fauzan Gifari Dzul Fahmi selaku ASLAB dari Sistem Informasi Kelas A yang telah memberikan tugas MiniProject 1 dan 2*
+Mba Novianti Safitri dan Bang Muhammad Fauzan Gifari Dzul Fahmi selaku ASLAB dari Sistem Informasi Kelas A yang telah memberikan tugas MiniProject 1, 2 dan 3*
 
 - MiniProject Pertemuan 1 Algoritma dan Struktur Data, dengan Tema ***Sistem Manajemen Jadwal Kelas*** yang telah diberikan pada Kamis, 22 Februari 2024
   
@@ -11,7 +11,7 @@ Mba Novianti Safitri dan Bang Muhammad Fauzan Gifari Dzul Fahmi selaku ASLAB dar
   
 #### A.	Output Hasil
 
-**a) Tampilan Menu Awal**
+**a) Tampilan Menu Awal Mini Project 2**
   
  ![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/09736337-67a4-4a63-8d39-519d7e7a484f)
 
@@ -59,4 +59,49 @@ Untuk pilihan ini akan menampilkan jadwal kelas terdaftar dengan bentuk table de
 
 
 
+- MiniProject Pertemuan 3 Algoritma dan Struktur Data, dengan Tema ***Sistem Manajemen Jadwal Kelas*** yang telah diberikan pada Kamis, 7 Maret 2024
+  berikut ini dokumentasi programnya:
+
+  #### A.	Output Hasil
+  **a) Tampilan Menu Awal Mini Project 3**
+  
+  ![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/33ccbcef-973b-4cc3-885c-a8bb50848f4b)
+
+untuk tampilan awalnya terdapat perubahan yaitu adanya menu tambahan untuk melakukan pengurutan secara ascending dan descending pada parameter dari fungsi membuat kelas, yaitu Nomor Pendaftaran, Jurusan, Mata Kuliah, Hari/Tanggal dan Ruangan. sehingga pengguna dapat mengurutkan satu dari lima atribut yang diinginkan dan dibutuhkan sesuai kondisi dengan ascending ataupun descending.
+
+**b)	If memilih 1 (Memeriksa Kelas)**
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/63bb7753-44ac-409f-9f91-ef8eabfa8e71)
+
+**c)	If memilih 2 (Membuat Jadwal Baru)**
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/4d445061-400d-4977-a4ae-f7caf814f9ce)
+
+**d)	If memilih 3 (Memeriksa Jadwal Terdaftar)**
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/56834325-a6d0-4099-965c-2f47c2ec95d3)
+
+**e)	If memilih 4 (Memperbarui Jadwal)**
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/9d10250d-bc10-4c36-aae0-b166e5aa782b)
+
+**f)	If memilih 5 (Mengurutkan Jadwal Terdaftar)**
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/10b3cea0-2bef-4362-8e75-c50ff51d7ee8)
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/c0d972f6-ee93-4c7d-943a-0dddebe0f411)
+
+if memilih 1 yaitu ascending dengan mengurutkan parameter dari Mata Kuliah
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/7fcbe245-abc5-4ba2-b9e4-7c00489884bb)
+
+if memilih 2 yaitu descending dengan mengurutkan parameter dari Mata Kuliah
+
+**g)	If memilih 6 (Menghapus Jadwal)**
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/358ddfad-5920-4e3e-a89b-02480d92ec4d)
+
+**h)	If memilih 7 (Keluar)**
+
+![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/2400cf99-8104-4402-bd01-421d51dd78ba)
 
