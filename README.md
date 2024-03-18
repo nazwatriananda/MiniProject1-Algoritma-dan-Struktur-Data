@@ -105,5 +105,4 @@ if memilih 2 yaitu descending dengan mengurutkan parameter dari Mata Kuliah
 
 ![image](https://github.com/nazwatriananda/MiniProject1-Algoritma-dan-Struktur-Data/assets/144808370/2400cf99-8104-4402-bd01-421d51dd78ba)
 
-
 - MiniProject Pertemuan 4 Algoritma dan Struktur Data, dengan Tema ***Sistem Manajemen Jadwal Kelas*** yang telah diberikan pada Kamis, 14 Maret 2024.
